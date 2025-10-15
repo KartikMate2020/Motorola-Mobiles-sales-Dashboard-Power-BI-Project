@@ -1,4 +1,4 @@
-📊 Motorola Mobile Sales Dashboard | Power BI Project
+<h1>📊 Motorola Mobile Sales Dashboard | Power BI Project</h1>
 
 This Power BI project provides a comprehensive analysis of Motorola mobile phone sales across various regions, products, and time periods. The dashboard offers key insights into sales performance, regional trends, product popularity, and customer purchasing behavior, helping stakeholders make informed decisions.
 
